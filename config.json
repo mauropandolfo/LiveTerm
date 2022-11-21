@@ -1,16 +1,16 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "pandolfo.sh",
+  "name": "Mauro Pandolfo",
+  "ascii": "Pandolfo",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "mauropandolfo",
+    "linkedin": "mauro-pandolfo"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "email": "pandolfomauro@gmail.com",
+  "ps1_hostname": "pandolfo",
+  "ps1_username": "admin",
+  "repo": "https://github.com/mauropandolfo",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
